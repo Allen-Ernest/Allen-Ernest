@@ -4,7 +4,7 @@
   📱 **Mobile App Development**: Flutter
   🎮 **Game Development**: Unity (C#)
   🐍 **Back-End Programming**: Python, Node.js
-  🖥️ **Desktop applications**: C#, Java Swing
+  🖥️ **Desktop applications**: C#, JavaFX
   ☕ **Java**: Android Development
   ⚙️ **Other Skills**: C#, SQL, Firebase, REST APIs
 - ## 🔧 Technologies & Tools
